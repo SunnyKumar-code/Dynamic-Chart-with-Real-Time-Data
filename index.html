@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Live Cryptocurrency Price Chart</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js"></script>
+  <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+  <div class="container">
+    <h1>Live Cryptocurrency Price Chart</h1>
+    <select id="cryptoSelector">
+      <option value="bitcoin">Bitcoin</option>
+      <option value="ethereum">Ethereum</option>
+      <option value="dogecoin">Dogecoin</option>
+    </select>
+    <button id="pauseButton">Pause</button>
+    <canvas id="liveChart"></canvas>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>
