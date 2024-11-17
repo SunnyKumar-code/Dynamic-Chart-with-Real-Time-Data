@@ -108,7 +108,7 @@
     }
   }
   
-  /* Medium screens */
+
   @media (max-width: 1024px) {
     h1 {
       font-size: 2.2rem;
@@ -133,7 +133,7 @@
     }
   }
   
-  /* Small screens */
+ 
   @media (max-width: 768px) {
     body {
       font-size: 14px;
@@ -165,7 +165,7 @@
     }
   }
   
-  /* Extra small screens (mobile) */
+ 
   @media (max-width: 480px) {
     h1 {
       font-size: 1.8rem;

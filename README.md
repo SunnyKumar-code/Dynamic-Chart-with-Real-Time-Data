@@ -13,7 +13,7 @@ This project provides a live chart displaying cryptocurrency prices in real-time
 ## Demo
 
 You can view the live demo of the project here:  
-[Live Cryptocurrency Price Chart Demo]()
+[Live Cryptocurrency Price Chart Demo](https://sunnykumar-code.github.io/Dynamic-Chart-with-Real-Time-Data/)
 
 ## Technologies Used
 
@@ -45,17 +45,13 @@ To run this project locally:
 2. **Pause/Resume Updates**: Click the "Pause" button to stop the chart from updating, and click it again to resume the updates.
 3. **View Real-Time Chart**: The chart will display the price changes over time on the graph.
 
-## Screenshots
 
-![Live Chart Screenshot](./screenshots/live-chart.png)
 
 ## Contributing
 
 Feel free to fork the repository and submit pull requests. Contributions are welcome!
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
